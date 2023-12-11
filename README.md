@@ -14,16 +14,12 @@ https://portswigger.net/burp/releases/professional-community-2023-10-2-4?request
 
 ## 效果展示
 
-![](image/CleanShot 2023-12-12 at 00.01.43@2x.png)
+![](image/demo1.png)
 
+![](image/demo2.png)
 
+![](image/demo3.png)
 
-![](image/CleanShot 2023-12-12 at 00.02.03@2x.png)
+![](image/demo4.png)
 
-
-
-![](image/CleanShot 2023-12-12 at 00.02.37@2x.png)
-
-![](image/CleanShot 2023-12-12 at 00.02.49@2x.png)
-
-![](image/CleanShot 2023-12-12 at 00.03.10@2x.png)
+![](image/demo5.png)
